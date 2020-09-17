@@ -1,16 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a full time student at Microverse Inc.
+- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails )
+- 💬 Ask me about Web Development
+- 📫 How to reach me: [Twitter](https://twitter.com/vmwhoami), [Linkedin](https://www.linkedin.com/in/vitalie-melnic/)
+- ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
+
 <!--
-**vmwhoami/vmwhoami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**acushlakoncept/acushlakoncept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmwhoami)](https://github.com/anuraghazra/github-readme-stats)
+
+
